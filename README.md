@@ -2,6 +2,8 @@
 
 A composition of [dot](https://github.com/Emotional-Toys/animals-dot), as a piece of jewelry containing a cryptography chip designed to be worn and secure, with a most necessary aeon. A new innovative product.
 
+![fob](/images/fob.jpg)
+
 ### Index
 
 * [Design](/design/README.md)
