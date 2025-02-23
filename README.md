@@ -1,6 +1,6 @@
 ## animals-fob
 
-A composition of [dot](), as a piece of jewelry containing a cryptography chip designed to be worn and secure, with a most necessary aeon. A new innovative product.
+A composition of [dot](https://github.com/Emotional-Toys/animals-dot), as a piece of jewelry containing a cryptography chip designed to be worn and secure, with a most necessary aeon. A new innovative product.
 
 ### Index
 
