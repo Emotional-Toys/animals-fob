@@ -1,6 +1,6 @@
 ## fob
 
-To create the most necessary A.I. around an innovative product.
+A composition of [dot](), as a piece of jewelry containing a cryptography chip designed to be worn and secure, with a most necessary aeon. A new innovative product.
 
 ### Index
 
